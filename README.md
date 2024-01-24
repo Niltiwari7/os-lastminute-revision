@@ -4,6 +4,7 @@
 - It is the interface between the user and computer hardware.
 
 ### Types of Os
+
 #### Batch Os
 - A set of similar jobs are stored in main memory for execution. A job gets assigned to the CPU, only when the execution of the previous job is completed.
 
